@@ -5,7 +5,7 @@ datos = 480
 forma = 240
 
 
-def funcion_a_imagen(color):
+def Pantalla(color):
     
     
     frame = arreglo.zeros((forma, datos,3),'C' ,arreglo.uint8)
