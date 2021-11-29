@@ -1,7 +1,7 @@
 import numpy as arreglo
 from PIL import Image, ImageTk
 
-datos = 480
+datos = 1024
 forma = 240
 
 
